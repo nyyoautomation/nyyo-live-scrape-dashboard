@@ -4,14 +4,13 @@
 >
 > **What it does:** A small robot fetches public numbers (here: BTC / ETH / SOL prices) and shows them on a web dashboard.
 >
-> **Try it in 1 click:** open the [**live demo**](https://cdn.jsdelivr.net/gh/nyyoautomation/nyyo-live-scrape-dashboard@main/index.html) and read the cards + “Last scrape” time.
+> **Try it in 1 click:** open the [**live demo**](https://nyyoautomation.github.io/nyyo-live-scrape-dashboard/) and read the cards + “Last scrape” time.
 >
 > **Business benefit:** stop checking 5 websites every morning. Get a live board (and optional Telegram/Discord alerts). Setup from **$120**.
 
 ![Demo](docs/demo.gif)
 
-**Live demo:** https://cdn.jsdelivr.net/gh/nyyoautomation/nyyo-live-scrape-dashboard@main/index.html  
-*(GitHub Pages once enabled: https://nyyoautomation.github.io/nyyo-live-scrape-dashboard/)*  
+**Live demo:** https://nyyoautomation.github.io/nyyo-live-scrape-dashboard/  
 **Brand:** [Nyyo Automation](https://github.com/nyyoautomation)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
