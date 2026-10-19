@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Live scrape dashboard — Nyyo Automation</title>
+  <meta name="description" content="Demo dashboard auto-filled from a public price scrape. Nyyo Automation." />
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <span class="tag">Live demo · public data · no signup</span>
+      <h1>Live scrape → dashboard</h1>
+      <p style="margin:0;color:#9aa8c7;line-height:1.5">
+        A small script pulls public crypto prices and refreshes this page.
+        Same pattern for competitor prices, leads, stock levels, or job boards.
+      </p>
+      <p style="margin:8px 0 0;font-size:.8rem;color:#9aa8c7">Nyyo Automation · fixed-price · crypto OK</p>
+    </header>
+
+    <section class="explainer">
+      <h2>What is this? (plain English)</h2>
+      <p style="margin:0 0 8px;color:#9aa8c7">
+        Instead of copying numbers by hand every morning, a robot fetches them and updates a dashboard you can open in the browser.
+      </p>
+      <ol>
+        <li>Look at the cards below — those numbers came from a public scrape.</li>
+        <li>Check the “Last scrape” timestamp.</li>
+        <li>That’s the product: always-fresh numbers without a spreadsheet ritual.</li>
+      </ol>
+      <div class="benefit">
+        <strong>Business benefit:</strong> save 30–60 min/day of manual checks; get alerts when a price/lead threshold moves.
+        Setup from <strong>$120</strong>, or a monthly retainer for monitoring.
+      </div>
+    </section>
+
+    <p class="meta" id="updated">Loading…</p>
+    <div class="grid" id="grid"></div>
+
+    <table>
+      <thead><tr><th>Asset</th><th>Price (USD)</th><th>24h</th><th>Source</th></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+
+    <p class="footer">
+      Demo data is public market prices (not financial advice).
+      Want this for <em>your</em> site or catalog?
+      <a href="https://laborx.com/freelancers/users/id475124">Hire Nyyo Automation</a>
+      ·
+      <a href="https://github.com/nyyoautomation/nyyo-live-scrape-dashboard">Repo</a>
+    </p>
+  </div>
+  <script>window.NYYO_PRICES = {"updated_at": "2026-10-19T15:46:52Z", "note": "Demo scrape for Nyyo Automation portfolio \u2014 public prices only.", "items": [{"id": "bitcoin", "name": "Bitcoin", "price_usd": 82050, "change_24h_pct": 1.31, "source": "CoinGecko public API"}, {"id": "ethereum", "name": "Ethereum", "price_usd": 2399.82, "change_24h_pct": 1.16, "source": "CoinGecko public API"}, {"id": "solana", "name": "Solana", "price_usd": 104.29, "change_24h_pct": 2.38, "source": "CoinGecko public API"}]};</script>
+  <script src="./js/app.js"></script>
+</body>
+</html>

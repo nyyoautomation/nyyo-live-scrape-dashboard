@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-10-19T15:46:52Z",
+  "note": "Demo scrape for Nyyo Automation portfolio \u2014 public prices only.",
+  "items": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "price_usd": 82050,
+      "change_24h_pct": 1.31,
+      "source": "CoinGecko public API"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "price_usd": 2399.82,
+      "change_24h_pct": 1.16,
+      "source": "CoinGecko public API"
+    },
+    {
+      "id": "solana",
+      "name": "Solana",
+      "price_usd": 104.29,
+      "change_24h_pct": 2.38,
+      "source": "CoinGecko public API"
+    }
+  ]
+}
