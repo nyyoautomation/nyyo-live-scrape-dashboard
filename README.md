@@ -55,3 +55,7 @@ Crypto: USDC / SOL / ETH / BTC.
 
 - Demo uses **public** market data for illustration — not financial advice.
 - Respect each site’s terms; we don’t sell “bypass anti-bot” as a service.
+
+## Free install kit included
+
+Sheets / Airtable / webhook example configs in `install-kit/` and ZIP in `dist/`. **Free, included with every package.**

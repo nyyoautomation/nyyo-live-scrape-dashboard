@@ -1,0 +1,13 @@
+{
+  "destination": "airtable",
+  "base_id": "appXXXXXXXX",
+  "table": "Prices",
+  "token_env": "AIRTABLE_TOKEN",
+  "fields_map": {
+    "Name": "name",
+    "Symbol": "symbol",
+    "Price USD": "price_usd",
+    "Change 24h": "change_24h_pct"
+  },
+  "note": "Free install kit included with every scrape package."
+}

@@ -1,0 +1,14 @@
+{
+  "destination": "webhook",
+  "url": "https://example.com/hooks/nyyo-prices",
+  "method": "POST",
+  "headers": {
+    "Content-Type": "application/json",
+    "X-Nyyo-Secret": "YOUR_SECRET"
+  },
+  "body_template": {
+    "updated_at": "{{updated_at}}",
+    "items": "{{items}}"
+  },
+  "note": "Free install kit \u2014 no lock-in; runs from your GitHub Action or VPS."
+}

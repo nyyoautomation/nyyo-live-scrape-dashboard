@@ -1,0 +1,17 @@
+{
+  "destination": "google_sheets",
+  "spreadsheet_id": "YOUR_SHEET_ID",
+  "worksheet": "Prices",
+  "columns": [
+    "id",
+    "name",
+    "symbol",
+    "price_usd",
+    "change_24h_pct",
+    "volume_24h_usd",
+    "market_cap_usd",
+    "updated_at"
+  ],
+  "service_account": "path/to/service-account.json",
+  "note": "Free install kit \u2014 we wire this at handover or you fill credentials on your account."
+}
