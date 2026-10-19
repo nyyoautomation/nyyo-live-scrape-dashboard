@@ -56,11 +56,3 @@ Crypto: USDC / SOL / ETH / BTC.
 
 - Demo uses **public** market data for illustration — not financial advice.
 - Respect each site’s terms; we don’t sell “bypass anti-bot” as a service.
-
-<details>
-<summary>🇫🇷 Français</summary>
-
-**Dashboard alimenté par un scrape.** Ouvrez la [démo live](https://cdn.jsdelivr.net/gh/nyyoautomation/nyyo-live-scrape-dashboard@main/index.html) : les cartes montrent des prix publics mis à jour par un script.  
-Bénéfice : plus de copier-coller chaque matin. Prestation à partir de **120 $**.
-
-</details>
