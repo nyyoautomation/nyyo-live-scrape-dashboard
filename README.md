@@ -6,7 +6,7 @@
 >
 > **Try it in 1 click:** open the [**live demo**](https://nyyoautomation.github.io/nyyo-live-scrape-dashboard/) and read the cards + “Last scrape” time.
 >
-> **Business benefit:** stop checking 5 websites every morning. Get a live board (and optional Telegram/Discord alerts). Setup from **$120**.
+> **Business benefit:** stop checking 5 websites every morning. Get a live board (and optional Telegram/Discord alerts). Setup from **$199**.
 
 ![Demo](docs/demo.gif)
 
@@ -39,7 +39,7 @@ A scheduled GitHub Action can refresh this automatically (needs workflow + Pages
 | | |
 |---|---|
 | **Product** | Custom monitored scrape + dashboard + optional alert |
-| **From** | **$120** setup · retainer **$100–300/mo** |
+| **From** | **$199** setup · maintenance **$49–59/mo** |
 | **Examples** | Competitor prices · lead lists · stock / availability · job boards |
 
 → [Packages & contact](https://github.com/nyyoautomation) · [LaborX — Nyyo Automation](https://laborx.com/freelancers/users/id475124)
@@ -49,7 +49,7 @@ A scheduled GitHub Action can refresh this automatically (needs workflow + Pages
 1. Open an **issue** with: goal · deadline · budget  
 2. Or message **[LaborX — Nyyo Automation](https://laborx.com/freelancers/users/id475124)**
 
-Crypto: USDC / SOL / ETH / BTC.
+Crypto: USDC on BNB Chain or Base.
 
 ## Limits (honest)
 
