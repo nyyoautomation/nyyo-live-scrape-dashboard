@@ -24,3 +24,5 @@ th,td{padding:12px 14px;text-align:left;border-bottom:1px solid var(--border);fo
 th{color:var(--muted);font-weight:600}
 .footer{margin-top:18px;color:var(--muted);font-size:.85rem;text-align:center}
 .footer a{color:var(--ok)}
+
+@media(max-width:480px){table{font-size:.8rem}th,td{padding:8px 6px!important;word-break:break-word}}
