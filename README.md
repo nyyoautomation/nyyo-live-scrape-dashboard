@@ -39,7 +39,7 @@ A scheduled GitHub Action can refresh this automatically (needs workflow + Pages
 | | |
 |---|---|
 | **Product** | Custom monitored scrape + dashboard + optional alert |
-| **From** | **$199** setup · maintenance **$49–59/mo** |
+| **From** | **$199** setup · maintenance from **$49/mo** |
 | **Examples** | Competitor prices · lead lists · stock / availability · job boards |
 
 → [Packages & contact](https://github.com/nyyoautomation) · [LaborX — Nyyo Automation](https://laborx.com/freelancers/users/id475124)
